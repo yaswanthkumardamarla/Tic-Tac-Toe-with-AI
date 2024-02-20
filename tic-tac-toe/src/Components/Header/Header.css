@@ -1,0 +1,10 @@
+.Header{
+    position: fixed;
+    top:34px;
+    left: 92%;
+    width: 65px;
+    height: 30px;
+}
+.mute{
+    cursor: pointer;
+}
