@@ -94,7 +94,7 @@ h1{
     display: flex;
     justify-content: space-between;
     width: 30%;
-    margin-left: 335px;
+    margin : 0 auto;
 }
 .cross, .circle{
     cursor: pointer;
